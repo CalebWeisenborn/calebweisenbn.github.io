@@ -26,5 +26,12 @@
     "title": "Welcome To My Blog",
     "section": "",
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/did-tcu-deserve-cfb-playoff/index.html",
+    "href": "posts/did-tcu-deserve-cfb-playoff/index.html",
+    "title": "Did TCU deserve to be in the College Football Playoff?",
+    "section": "",
+    "text": "The 2023 College Football National Championship was an absolute blood bath. The TCU Horned Frogs came into the game 13-1, fresh off of a back and forth battle with the Michigan Wolverines. On the other side, the Georgia Bulldogs squeezed out a win vs the Ohio State Buckeyes on a last second missed field goal. Fans around the country settled in for the big game. Most had it turned off by halftime.\nTCU punched first, then it was all Georgia from there. Georgia went on to score 65 straight unanswered points. The Georgia defense made Heisman candidate Max Duggan’s life a living hell as he continuously found himself on his back. It was embarrassing, and many fans wondered why TCU was there. Was Georgia that good, or was TCU overrated?\nThere’s a well-known narrative that the SEC, the conference Georgia plays in, is without a doubt the best conference in college football. They consistently have high ranked teams and produce national championships. The Big 12 conference is known for it’s high scoring games with explosive offenses. So, how bad are the defenses in the big 12?\n\n\nCode\nlibrary(tidyverse)\n\n\n── Attaching packages ─────────────────────────────────────── tidyverse 1.3.2 ──\n✔ ggplot2 3.4.0      ✔ purrr   1.0.1 \n✔ tibble  3.1.8      ✔ dplyr   1.0.10\n✔ tidyr   1.3.0      ✔ stringr 1.5.0 \n✔ readr   2.1.3      ✔ forcats 0.5.2 \n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\n\n\nCode\nlibrary(cowplot)"
   }
 ]
